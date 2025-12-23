@@ -3,6 +3,6 @@ package gitExercise2.main;
 public class HelloGit {
 	public static void main (String [] args) {
 		System.out.println("Hello git!!!");
-		System.out.println("Questa è una seconda stampa per modifica di prova file");
+		System.out.println("Questa stampa di prova è stata modificata una seconda volta");
 	}
 }
